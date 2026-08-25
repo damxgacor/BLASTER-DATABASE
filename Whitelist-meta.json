@@ -84,5 +84,18 @@
     "addedAt": "2026-08-25T08:17:43.658Z",
     "status": "clear",
     "debt": null
+  },
+  "601139490640": {
+    "addedBy": "ArippReseller111",
+    "addedAt": "2026-08-25T09:28:39.388Z",
+    "status": "hutang",
+    "debt": {
+      "totalAmount": 3.5,
+      "paidAmount": 0,
+      "remainingAmount": 3.5,
+      "dueAt": "2026-09-01T09:28:39.388Z",
+      "createdAt": "2026-08-25T09:28:39.388Z",
+      "history": []
+    }
   }
 }
