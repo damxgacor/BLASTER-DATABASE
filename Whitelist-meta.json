@@ -63,14 +63,21 @@
   "601125376119": {
     "addedBy": "D4mxAdmin",
     "addedAt": "2026-08-23T12:59:48.932Z",
-    "status": "hutang",
+    "status": "clear",
     "debt": {
       "totalAmount": 2,
-      "paidAmount": 0,
-      "remainingAmount": 2,
+      "paidAmount": 2,
+      "remainingAmount": 0,
       "dueAt": "2026-08-30T12:59:48.932Z",
       "createdAt": "2026-08-23T12:59:48.932Z",
-      "history": []
+      "history": [
+        {
+          "type": "full",
+          "amount": 2,
+          "at": "2026-08-31T11:06:22.424Z",
+          "by": "D4mxAdmin"
+        }
+      ]
     }
   },
   "601128192563": {
