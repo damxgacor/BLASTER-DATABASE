@@ -41,19 +41,6 @@
     "status": "clear",
     "debt": null
   },
-  "601162257821": {
-    "addedBy": "D4mxAdmin",
-    "addedAt": "2026-08-23T03:21:40.858Z",
-    "status": "hutang",
-    "debt": {
-      "totalAmount": 1,
-      "paidAmount": 0,
-      "remainingAmount": 1,
-      "dueAt": "2026-08-30T03:21:40.858Z",
-      "createdAt": "2026-08-23T03:21:40.858Z",
-      "history": []
-    }
-  },
   "60143203780": {
     "addedBy": "hrtz",
     "addedAt": "2026-08-23T09:11:58.087Z",
