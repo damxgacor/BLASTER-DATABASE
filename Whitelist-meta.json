@@ -17,12 +17,6 @@
     "status": "clear",
     "debt": null
   },
-  "601149711422": {
-    "addedBy": null,
-    "addedAt": null,
-    "status": "clear",
-    "debt": null
-  },
   "601127614759": {
     "addedBy": "shapet",
     "addedAt": "2026-08-22T09:02:28.675Z",
@@ -130,6 +124,12 @@
   "60137799867": {
     "addedBy": "D4mxAdmin",
     "addedAt": "2026-09-05T10:53:52.183Z",
+    "status": "clear",
+    "debt": null
+  },
+  "601153801422": {
+    "addedBy": null,
+    "addedAt": null,
     "status": "clear",
     "debt": null
   }
