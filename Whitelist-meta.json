@@ -35,26 +35,6 @@
     "status": "clear",
     "debt": null
   },
-  "601125376119": {
-    "addedBy": "D4mxAdmin",
-    "addedAt": "2026-08-23T12:59:48.932Z",
-    "status": "clear",
-    "debt": {
-      "totalAmount": 2,
-      "paidAmount": 2,
-      "remainingAmount": 0,
-      "dueAt": "2026-08-30T12:59:48.932Z",
-      "createdAt": "2026-08-23T12:59:48.932Z",
-      "history": [
-        {
-          "type": "full",
-          "amount": 2,
-          "at": "2026-08-31T11:06:22.424Z",
-          "by": "D4mxAdmin"
-        }
-      ]
-    }
-  },
   "601128192563": {
     "addedBy": "Epulz",
     "addedAt": "2026-08-25T06:16:52.483Z",
@@ -162,5 +142,25 @@
     "addedAt": "2026-09-16T15:52:18.571Z",
     "status": "clear",
     "debt": null
+  },
+  "601112893110": {
+    "addedBy": "D4mxAdmin",
+    "addedAt": "2026-08-23T12:59:48.932Z",
+    "status": "clear",
+    "debt": {
+      "totalAmount": 2,
+      "paidAmount": 2,
+      "remainingAmount": 0,
+      "dueAt": "2026-08-30T12:59:48.932Z",
+      "createdAt": "2026-08-23T12:59:48.932Z",
+      "history": [
+        {
+          "type": "full",
+          "amount": 2,
+          "at": "2026-08-31T11:06:22.424Z",
+          "by": "D4mxAdmin"
+        }
+      ]
+    }
   }
 }
