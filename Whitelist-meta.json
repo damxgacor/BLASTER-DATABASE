@@ -198,5 +198,11 @@
     "addedAt": null,
     "status": "clear",
     "debt": null
+  },
+  "601161833085": {
+    "addedBy": "IDoy",
+    "addedAt": "2026-09-22T11:30:23.989Z",
+    "status": "clear",
+    "debt": null
   }
 }
