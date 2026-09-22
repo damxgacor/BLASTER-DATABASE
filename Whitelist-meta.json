@@ -89,12 +89,6 @@
     "status": "clear",
     "debt": null
   },
-  "601153801422": {
-    "addedBy": null,
-    "addedAt": null,
-    "status": "clear",
-    "debt": null
-  },
   "601173010767": {
     "addedBy": null,
     "addedAt": null,
@@ -196,6 +190,12 @@
   "60104328847": {
     "addedBy": "Irfanstore",
     "addedAt": "2026-09-22T06:46:27.511Z",
+    "status": "clear",
+    "debt": null
+  },
+  "601149711422": {
+    "addedBy": null,
+    "addedAt": null,
     "status": "clear",
     "debt": null
   }
