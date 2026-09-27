@@ -191,12 +191,6 @@
     "status": "clear",
     "debt": null
   },
-  "601159259349": {
-    "addedBy": "hrtz",
-    "addedAt": "2026-08-31T04:05:31.147Z",
-    "status": "clear",
-    "debt": null
-  },
   "601128956649": {
     "addedBy": "Mars",
     "addedAt": "2026-09-25T09:50:22.093Z",
@@ -262,6 +256,12 @@
   "6283135214261": {
     "addedBy": "Mars",
     "addedAt": "2026-09-27T07:24:12.058Z",
+    "status": "clear",
+    "debt": null
+  },
+  "60138919737": {
+    "addedBy": "hrtz",
+    "addedAt": "2026-08-31T04:05:31.147Z",
     "status": "clear",
     "debt": null
   }
