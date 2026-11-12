@@ -155,12 +155,6 @@
     "status": "clear",
     "debt": null
   },
-  "60109068032": {
-    "addedBy": "Zakriss",
-    "addedAt": "2026-09-26T07:48:22.951Z",
-    "status": "clear",
-    "debt": null
-  },
   "60142339349": {
     "addedBy": "D4mxAdmin",
     "addedAt": "2026-09-24T04:04:53.572Z",
@@ -550,6 +544,12 @@
   "601116510910": {
     "addedBy": null,
     "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  "60109135131": {
+    "addedBy": "Zakriss",
+    "addedAt": "2026-09-26T07:48:22.951Z",
     "status": "clear",
     "debt": null
   }
