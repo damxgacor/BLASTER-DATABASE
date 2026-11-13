@@ -558,5 +558,18 @@
     "addedAt": null,
     "status": "clear",
     "debt": null
+  },
+  "60176614788": {
+    "addedBy": "Azz",
+    "addedAt": "2026-11-13T05:19:34.681Z",
+    "status": "hutang",
+    "debt": {
+      "totalAmount": 4,
+      "paidAmount": 0,
+      "remainingAmount": 4,
+      "dueAt": "2026-11-20T05:19:34.681Z",
+      "createdAt": "2026-11-13T05:19:34.681Z",
+      "history": []
+    }
   }
 }
