@@ -571,5 +571,11 @@
     "addedAt": "2026-11-04T10:22:24.497Z",
     "status": "clear",
     "debt": null
+  },
+  "60125196424": {
+    "addedBy": "hrtz",
+    "addedAt": "2026-11-15T08:34:40.130Z",
+    "status": "clear",
+    "debt": null
   }
 }
