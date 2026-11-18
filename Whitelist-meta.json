@@ -554,12 +554,6 @@
     "status": "clear",
     "debt": null
   },
-  "639567817635": {
-    "addedBy": null,
-    "addedAt": null,
-    "status": "clear",
-    "debt": null
-  },
   "601125592829": {
     "addedBy": "DenzResellerMalay",
     "addedAt": "2026-11-04T10:22:24.497Z",
@@ -596,5 +590,11 @@
       "createdAt": "2026-11-18T08:31:57.374Z",
       "history": []
     }
+  },
+  "601149611298": {
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
   }
 }
