@@ -535,11 +535,18 @@
     "status": "hutang",
     "debt": {
       "totalAmount": 4,
-      "paidAmount": 0,
-      "remainingAmount": 4,
-      "dueAt": "2026-11-20T05:19:34.681Z",
+      "paidAmount": 1.67,
+      "remainingAmount": 2.33,
+      "dueAt": "2026-11-26T11:18:48.933Z",
       "createdAt": "2026-11-13T05:19:34.681Z",
-      "history": []
+      "history": [
+        {
+          "type": "partial",
+          "amount": 1.67,
+          "at": "2026-11-21T11:18:48.933Z",
+          "by": "Azz"
+        }
+      ]
     }
   },
   "601125592829": {
