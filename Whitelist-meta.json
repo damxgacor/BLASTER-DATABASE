@@ -627,5 +627,11 @@
     "addedAt": null,
     "status": "clear",
     "debt": null
+  },
+  "601121790370": {
+    "addedBy": "Topek",
+    "addedAt": "2026-11-22T08:47:56.045Z",
+    "status": "clear",
+    "debt": null
   }
 }
