@@ -576,14 +576,21 @@
   "639956417206": {
     "addedBy": "Irfanstore",
     "addedAt": "2026-11-18T08:31:57.374Z",
-    "status": "hutang",
+    "status": "clear",
     "debt": {
       "totalAmount": 4,
-      "paidAmount": 0,
-      "remainingAmount": 4,
+      "paidAmount": 4,
+      "remainingAmount": 0,
       "dueAt": "2026-11-25T08:31:57.374Z",
       "createdAt": "2026-11-18T08:31:57.374Z",
-      "history": []
+      "history": [
+        {
+          "type": "full",
+          "amount": 4,
+          "at": "2026-11-25T03:36:12.704Z",
+          "by": "Irfanstore"
+        }
+      ]
     }
   },
   "601149611298": {
