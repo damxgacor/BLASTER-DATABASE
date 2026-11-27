@@ -553,26 +553,6 @@
     "status": "clear",
     "debt": null
   },
-  "639956417206": {
-    "addedBy": "Irfanstore",
-    "addedAt": "2026-11-18T08:31:57.374Z",
-    "status": "clear",
-    "debt": {
-      "totalAmount": 4,
-      "paidAmount": 4,
-      "remainingAmount": 0,
-      "dueAt": "2026-11-25T08:31:57.374Z",
-      "createdAt": "2026-11-18T08:31:57.374Z",
-      "history": [
-        {
-          "type": "full",
-          "amount": 4,
-          "at": "2026-11-25T03:36:12.704Z",
-          "by": "Irfanstore"
-        }
-      ]
-    }
-  },
   "601149611298": {
     "addedBy": null,
     "addedAt": null,
@@ -694,5 +674,25 @@
     "addedAt": "2026-11-27T12:34:33.434Z",
     "status": "clear",
     "debt": null
+  },
+  "601159297146": {
+    "addedBy": "Irfanstore",
+    "addedAt": "2026-11-18T08:31:57.374Z",
+    "status": "clear",
+    "debt": {
+      "totalAmount": 4,
+      "paidAmount": 4,
+      "remainingAmount": 0,
+      "dueAt": "2026-11-25T08:31:57.374Z",
+      "createdAt": "2026-11-18T08:31:57.374Z",
+      "history": [
+        {
+          "type": "full",
+          "amount": 4,
+          "at": "2026-11-25T03:36:12.704Z",
+          "by": "Irfanstore"
+        }
+      ]
+    }
   }
 }
